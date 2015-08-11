@@ -103,10 +103,6 @@
 	            
 	        </div><!-- .footer-bottom-wrap -->
 
-	        <div class="powered-by">
-	            <a class="" href="https://themeisle.com/themes/parallax-one/" target="_blank" rel="nofollow">Parallax One </a> <?php esc_html_e('powered by','parallax-one'); ?> <a class="" href="http://wordpress.org/" target="_blank" rel="nofollow"><?php esc_html_e('WordPress','parallax-one'); ?></a>
-	        </div>
-
 	    </div><!-- container -->
 
     </footer>
